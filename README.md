@@ -1,7 +1,5 @@
-# versionhallinta2020
+# Versionhallinta ja ohjelmavarastot 2020
 
-Rivi 1Jees
+## Videot
 
-Tämäkin on tekstiä.
-
-Rivi 2Jees
+1. Mitä on versionhallinta
