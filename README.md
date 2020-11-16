@@ -4,3 +4,4 @@
 
 1. Mitä on versionhallinta
 2. Työkalujen asennus
+3. Git, ekat askeleet
