@@ -3,3 +3,4 @@
 ## Videot
 
 1. Mitä on versionhallinta
+2. Työkalujen asennus
