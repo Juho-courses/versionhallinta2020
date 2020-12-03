@@ -7,3 +7,4 @@
 3. Git, ekat askeleet
 4. Muutosten käsittely
 5. Branchit
+6. Hajauttaminen, remotet
